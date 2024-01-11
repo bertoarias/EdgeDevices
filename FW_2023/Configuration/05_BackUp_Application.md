@@ -30,6 +30,12 @@ Next, dezip the .app folders, for example via the 7zip tool on your Host-PC. <br
 5. Some contents of one dezipped folder needs to be copied into the other one. <br> In this example, I will copy files from the InfluxDB app into the Node-RED app:
 Copy the ".tar.gz" file under "images" into the other app folder in same location. <br>
 ![CopyImage1](/FW_2023/images/Backup_application1.jpg) <br>
+![BackUp_1](/FW_2023/images/Backup_application1.jpg)
+<br>
+![Backup_application1](https://github.com/bertoarias/EdgeDevices/assets/75760544/1cd5b307-95e6-496b-9164-e0932194175c)
+
+
+
 Next, copy the files from the "volumes" folder from the one app to the other one, also into the "volumes" folder. <BR>
 ![CopyImage8](/FW_2023/images/Backup_application8.jpg) <br>
 
